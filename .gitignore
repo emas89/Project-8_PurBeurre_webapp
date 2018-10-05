@@ -1,3 +1,2 @@
-env/
-purbeurre/__pycache__
-purbeurre_project/__pycache__
+__pycache__
+purbeurre_project/settings/production.py
